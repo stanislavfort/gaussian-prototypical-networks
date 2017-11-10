@@ -1,0 +1,2 @@
+mkdir tmp_imgs
+mkdir model_checkpoints
