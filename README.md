@@ -1,6 +1,9 @@
 # Gaussian Prototypical Networks for Few-Shot Learning
 ## Development version - use with care
 
+#### Disclaimer
+This repository contains code in its developmental form.
+
 ### Intro
 This repository contains the original TensorFlow implementation of a Gaussian Prototypical Network from <a href = https://arxiv.org/abs/1708.02735>Gaussian Prototypical Networks for Few-Shot Learning on Omniglot</a>. The code is set to work with the Omniglot dataset (accessible at https://github.com/brendenlake/omniglot, citation: Lake, B. M., Salakhutdinov, R., and Tenenbaum, J. B. (2015). Human-level concept learning through probabilistic program induction. Science, 350(6266), 1332-1338.) I cleaned the code from historical baggage, but a lot of things does not have convenient switches, and needs to be done in the code directly. This repository contains shell scripts that will download and prepare Omniglot to be used by the code directly.
 
